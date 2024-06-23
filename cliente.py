@@ -110,6 +110,7 @@ def game_ready_message():
 def play_turn():
     log_event('ini', 'lanza-dado', TEAM_NAME, PLAYER_NAME)
     response = roll_dice()
+    time.sleep(1) #Hacemos un delay para que haya diferencia en los tiempos del log
     log_event('fin', 'lanza-dado', TEAM_NAME, PLAYER_NAME, response['value'])
     return jsonify({'message': 'correct throw', 'total team': response['total team']})
 

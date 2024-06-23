@@ -1,0 +1,99 @@
+2024-06-23 03:20:37, ini, juego1, inicio-juego, 
+2024-06-23 03:20:37, ini, juego1, crea-jugador, Team B, Francisco
+2024-06-23 03:20:37, fin, juego1, crea-jugador, Team B, Francisco
+2024-06-23 03:20:37, ini, juego1, inicio-partida, 
+2024-06-23 03:20:37, fin, juego1, inicio-partida, 
+2024-06-23 03:20:37, [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4002
+2024-06-23 03:20:37, [33mPress CTRL+C to quit[0m
+2024-06-23 03:20:37, 127.0.0.1 - - [23/Jun/2024 03:20:37] "GET /game_ready HTTP/1.1" 200 -
+2024-06-23 03:20:38, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:39, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:20:39, 127.0.0.1 - - [23/Jun/2024 03:20:39] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:40, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:41, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:20:41, 127.0.0.1 - - [23/Jun/2024 03:20:41] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:42, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:43, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:20:43, 127.0.0.1 - - [23/Jun/2024 03:20:43] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:44, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:45, fin, juego1, lanza-dado, Team B, Francisco, 1
+2024-06-23 03:20:45, 127.0.0.1 - - [23/Jun/2024 03:20:45] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:46, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:47, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:20:47, 127.0.0.1 - - [23/Jun/2024 03:20:47] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:48, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:49, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:20:49, 127.0.0.1 - - [23/Jun/2024 03:20:49] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:50, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:51, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:20:51, 127.0.0.1 - - [23/Jun/2024 03:20:51] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:52, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:53, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:20:53, 127.0.0.1 - - [23/Jun/2024 03:20:53] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:54, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:55, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:20:55, 127.0.0.1 - - [23/Jun/2024 03:20:55] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:56, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:57, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:20:57, 127.0.0.1 - - [23/Jun/2024 03:20:57] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:20:58, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:59, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:20:59, 127.0.0.1 - - [23/Jun/2024 03:20:59] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:00, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:01, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:21:01, 127.0.0.1 - - [23/Jun/2024 03:21:01] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:02, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:03, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:21:03, 127.0.0.1 - - [23/Jun/2024 03:21:03] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:04, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:05, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:21:05, 127.0.0.1 - - [23/Jun/2024 03:21:05] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:06, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:07, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:21:07, 127.0.0.1 - - [23/Jun/2024 03:21:07] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:08, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:09, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:09, 127.0.0.1 - - [23/Jun/2024 03:21:09] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:10, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:11, fin, juego1, lanza-dado, Team B, Francisco, 1
+2024-06-23 03:21:11, 127.0.0.1 - - [23/Jun/2024 03:21:11] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:13, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:14, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:14, 127.0.0.1 - - [23/Jun/2024 03:21:14] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:15, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:16, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:16, 127.0.0.1 - - [23/Jun/2024 03:21:16] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:17, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:18, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:21:18, 127.0.0.1 - - [23/Jun/2024 03:21:18] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:19, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:20, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:21:20, 127.0.0.1 - - [23/Jun/2024 03:21:20] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:21, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:22, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:22, 127.0.0.1 - - [23/Jun/2024 03:21:22] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:23, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:24, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:21:24, 127.0.0.1 - - [23/Jun/2024 03:21:24] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:25, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:26, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:21:26, 127.0.0.1 - - [23/Jun/2024 03:21:26] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:27, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:28, fin, juego1, lanza-dado, Team B, Francisco, 2
+2024-06-23 03:21:28, 127.0.0.1 - - [23/Jun/2024 03:21:28] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:29, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:30, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:21:30, 127.0.0.1 - - [23/Jun/2024 03:21:30] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:31, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:32, fin, juego1, lanza-dado, Team B, Francisco, 2
+2024-06-23 03:21:32, 127.0.0.1 - - [23/Jun/2024 03:21:32] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:33, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:34, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:21:34, 127.0.0.1 - - [23/Jun/2024 03:21:34] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:35, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:36, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:36, 127.0.0.1 - - [23/Jun/2024 03:21:36] "GET /your_turn HTTP/1.1" 200 -
+2024-06-23 03:21:36, fin, juego1, inicio-partida, 
+2024-06-23 03:21:36, fin, juego1, inicio-juego, 
+2024-06-23 03:21:36, 127.0.0.1 - - [23/Jun/2024 03:21:36] "POST /game_ended HTTP/1.1" 200 -

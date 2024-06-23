@@ -1,0 +1,130 @@
+2024-06-23 03:20:32, ini, juego1, inicio-juego
+2024-06-23 03:20:32, ini, juego1, crea-jugador, Team A, Pepito
+2024-06-23 03:20:32, fin, juego1, crea-jugador, Team A, Pepito
+2024-06-23 03:20:32, ini, juego1, inicio-partida
+2024-06-23 03:20:32, fin, juego1, inicio-partida
+2024-06-23 03:20:37, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:38, fin, juego1, lanza-dado, Team A, Pepito, 2
+2024-06-23 03:20:39, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:40, fin, juego1, lanza-dado, Team A, Pepito, 2
+2024-06-23 03:20:41, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:42, fin, juego1, lanza-dado, Team A, Pepito, 0
+2024-06-23 03:20:43, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:44, fin, juego1, lanza-dado, Team A, Pepito, 5
+2024-06-23 03:20:45, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:46, fin, juego1, lanza-dado, Team A, Pepito, 6
+2024-06-23 03:20:47, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:48, fin, juego1, lanza-dado, Team A, Pepito, 4
+2024-06-23 03:20:49, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:50, fin, juego1, lanza-dado, Team A, Pepito, 3
+2024-06-23 03:20:51, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:52, fin, juego1, lanza-dado, Team A, Pepito, 5
+2024-06-23 03:20:53, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:54, fin, juego1, lanza-dado, Team A, Pepito, 6
+2024-06-23 03:20:55, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:56, fin, juego1, lanza-dado, Team A, Pepito, 0
+2024-06-23 03:20:57, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:20:58, fin, juego1, lanza-dado, Team A, Pepito, 1
+2024-06-23 03:20:59, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:00, fin, juego1, lanza-dado, Team A, Pepito, 0
+2024-06-23 03:21:01, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:02, fin, juego1, lanza-dado, Team A, Pepito, 1
+2024-06-23 03:21:03, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:04, fin, juego1, lanza-dado, Team A, Pepito, 3
+2024-06-23 03:21:05, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:06, fin, juego1, lanza-dado, Team A, Pepito, 1
+2024-06-23 03:21:07, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:08, fin, juego1, lanza-dado, Team A, Pepito, 2
+2024-06-23 03:21:09, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:10, fin, juego1, lanza-dado, Team A, Pepito, 2
+2024-06-23 03:21:12, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:13, fin, juego1, lanza-dado, Team A, Pepito, 0
+2024-06-23 03:21:14, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:15, fin, juego1, lanza-dado, Team A, Pepito, 0
+2024-06-23 03:21:16, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:17, fin, juego1, lanza-dado, Team A, Pepito, 3
+2024-06-23 03:21:18, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:19, fin, juego1, lanza-dado, Team A, Pepito, 5
+2024-06-23 03:21:20, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:21, fin, juego1, lanza-dado, Team A, Pepito, 0
+2024-06-23 03:21:22, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:23, fin, juego1, lanza-dado, Team A, Pepito, 4
+2024-06-23 03:21:24, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:25, fin, juego1, lanza-dado, Team A, Pepito, 3
+2024-06-23 03:21:26, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:27, fin, juego1, lanza-dado, Team A, Pepito, 4
+2024-06-23 03:21:28, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:29, fin, juego1, lanza-dado, Team A, Pepito, 5
+2024-06-23 03:21:30, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:31, fin, juego1, lanza-dado, Team A, Pepito, 2
+2024-06-23 03:21:32, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:33, fin, juego1, lanza-dado, Team A, Pepito, 0
+2024-06-23 03:21:34, ini, juego1, lanza-dado, Team A, Pepito
+2024-06-23 03:21:35, fin, juego1, lanza-dado, Team A, Pepito, 5
+2024-06-23 03:21:36, fin, juego1, inicio-partida
+2024-06-23 03:21:36, fin, juego1, inicio-juego
+2024-06-23 03:20:37, ini, juego1, inicio-juego
+2024-06-23 03:20:37, ini, juego1, crea-jugador, Team B, Francisco
+2024-06-23 03:20:37, fin, juego1, crea-jugador, Team B, Francisco
+2024-06-23 03:20:37, ini, juego1, inicio-partida
+2024-06-23 03:20:37, fin, juego1, inicio-partida
+2024-06-23 03:20:38, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:39, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:20:40, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:41, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:20:42, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:43, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:20:44, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:45, fin, juego1, lanza-dado, Team B, Francisco, 1
+2024-06-23 03:20:46, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:47, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:20:48, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:49, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:20:50, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:51, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:20:52, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:53, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:20:54, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:55, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:20:56, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:57, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:20:58, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:20:59, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:21:00, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:01, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:21:02, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:03, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:21:04, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:05, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:21:06, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:07, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:21:08, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:09, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:10, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:11, fin, juego1, lanza-dado, Team B, Francisco, 1
+2024-06-23 03:21:13, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:14, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:15, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:16, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:17, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:18, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:21:19, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:20, fin, juego1, lanza-dado, Team B, Francisco, 3
+2024-06-23 03:21:21, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:22, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:23, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:24, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:21:25, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:26, fin, juego1, lanza-dado, Team B, Francisco, 0
+2024-06-23 03:21:27, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:28, fin, juego1, lanza-dado, Team B, Francisco, 2
+2024-06-23 03:21:29, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:30, fin, juego1, lanza-dado, Team B, Francisco, 6
+2024-06-23 03:21:31, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:32, fin, juego1, lanza-dado, Team B, Francisco, 2
+2024-06-23 03:21:33, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:34, fin, juego1, lanza-dado, Team B, Francisco, 4
+2024-06-23 03:21:35, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-23 03:21:36, fin, juego1, lanza-dado, Team B, Francisco, 5
+2024-06-23 03:21:36, fin, juego1, inicio-partida
+2024-06-23 03:21:36, fin, juego1, inicio-juego
